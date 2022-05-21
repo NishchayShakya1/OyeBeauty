@@ -1,0 +1,28 @@
+{
+    "image": [
+        {
+            "id" : 1,
+            "path" : "assets/images/beauty.jpg"
+        },
+        {
+            "id" : 2,
+            "path" : "assets/images/beauty.jpg"
+        },
+        {
+            "id" : 3,
+            "path" : "assets/images/beauty.jpg"
+        },
+        {
+            "id" : 4,
+            "path" : "assets/images/beauty.jpg"
+        },
+        {
+            "id" : 5,
+            "path" : "assets/images/beauty.jpg"
+        },
+        {
+            "id" : 6,
+            "path" : "assets/images/beauty.jpg"
+        }
+    ]
+}
